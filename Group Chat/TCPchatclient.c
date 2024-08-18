@@ -12,7 +12,7 @@
 #define SERVER_IP "127.0.0.1"
 
 /**
- * CS3205 Assignment 2
+ 
  * Summary:
  * This file contains the code to run a chatroom client.
  */
